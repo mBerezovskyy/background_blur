@@ -25,3 +25,4 @@ run main.py file
 - Eliminate bluring parts of body as shoulder part in image 2
 - Make transition from segmented body to blured background smoother
 - Smooth detected body contour
+- Try different segmentation nn architectures for example Unet
