@@ -5,6 +5,8 @@
 
 _Created using opencv and DeeplabV3+ with Xception71 backbone_
 
+# [Link to collab notebook](https://colab.research.google.com/drive/1OInXW6c0K8Wud8i3OHXACKCenI3VqM0k?usp=sharing)
+
 
 # **_Instalation and usage_**
 
